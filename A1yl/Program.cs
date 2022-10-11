@@ -16,6 +16,7 @@ namespace A1yl
 	{
 		static void Main(string[] args)
 		{
+			//display the menu
 			printMenu();
 
 			for (; ; )
