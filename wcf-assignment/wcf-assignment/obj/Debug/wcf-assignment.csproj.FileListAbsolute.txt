@@ -1,0 +1,7 @@
+F:\3170 Distributed\A1-wcf\wcf-assignment\wcf-assignment\bin\wcf-assignment.dll.config
+F:\3170 Distributed\A1-wcf\wcf-assignment\wcf-assignment\bin\wcf-assignment.dll
+F:\3170 Distributed\A1-wcf\wcf-assignment\wcf-assignment\bin\wcf-assignment.pdb
+F:\3170 Distributed\A1-wcf\wcf-assignment\wcf-assignment\obj\Debug\wcf-assignment.csproj.AssemblyReference.cache
+F:\3170 Distributed\A1-wcf\wcf-assignment\wcf-assignment\obj\Debug\wcf-assignment.csproj.CoreCompileInputs.cache
+F:\3170 Distributed\A1-wcf\wcf-assignment\wcf-assignment\obj\Debug\wcf-assignment.dll
+F:\3170 Distributed\A1-wcf\wcf-assignment\wcf-assignment\obj\Debug\wcf-assignment.pdb

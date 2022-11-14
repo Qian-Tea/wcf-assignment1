@@ -1,9 +1,0 @@
-F:\3170 Distributed\A1-wcf\wcf-assignment1\A1yl\bin\Debug\A1yl.exe.config
-F:\3170 Distributed\A1-wcf\wcf-assignment1\A1yl\bin\Debug\A1yl.exe
-F:\3170 Distributed\A1-wcf\wcf-assignment1\A1yl\bin\Debug\A1yl.pdb
-F:\3170 Distributed\A1-wcf\wcf-assignment1\A1yl\bin\Debug\WCF.dll
-F:\3170 Distributed\A1-wcf\wcf-assignment1\A1yl\obj\Debug\A1yl.csproj.AssemblyReference.cache
-F:\3170 Distributed\A1-wcf\wcf-assignment1\A1yl\obj\Debug\A1yl.csproj.CoreCompileInputs.cache
-F:\3170 Distributed\A1-wcf\wcf-assignment1\A1yl\obj\Debug\A1yl.csproj.CopyComplete
-F:\3170 Distributed\A1-wcf\wcf-assignment1\A1yl\obj\Debug\A1yl.exe
-F:\3170 Distributed\A1-wcf\wcf-assignment1\A1yl\obj\Debug\A1yl.pdb
